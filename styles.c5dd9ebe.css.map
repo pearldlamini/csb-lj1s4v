@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,GACE,UACF,CACA,EACE,aAAiB,CACjB,gBAAiB,CACjB,UACF,CACA,aACE,kBACF","file":"styles.c5dd9ebe.css","sourceRoot":"..","sourcesContent":["h1 {\n  color: black;\n}\nP {\n  color: blueviolet;\n  text-align: right;\n  width: 100%;\n}\n.search-form {\n  margin-bottom: 10px;\n}"]}
